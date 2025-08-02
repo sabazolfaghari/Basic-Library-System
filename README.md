@@ -15,3 +15,6 @@ The system supports the following operations:
 7. **Show Books** – Display all available books
 8. **Exit** – Close the program
 
+## Project Status
+
+This project represents an earlier stage of my development as a programmer. I plan to revisit and enhance the implementation by incorporating updated libraries, improving code structure, and adding additional features.
