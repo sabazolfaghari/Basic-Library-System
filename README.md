@@ -1,4 +1,4 @@
-# Basic Library in C
+# Basic Library System with C
 
 This is a lightweight console-based **Library Management System** implemented in C. It allows you to manage members, books, and lending activities using simple menus and dynamically allocated structures.
 
